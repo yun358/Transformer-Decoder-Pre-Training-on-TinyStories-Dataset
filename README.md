@@ -16,9 +16,12 @@ You can think of this as an open-source model with open-weights.
 
 ---
 
-Sample output:
+Sample outputs:
 
+1:
 <img width="2040" height="659" alt="1" src="https://github.com/user-attachments/assets/555fb75d-04ea-4bb5-9f4e-08f88b42daab" />
 
+
+2:
 <img width="2087" height="331" alt="2" src="https://github.com/user-attachments/assets/c27f64d2-37bf-4990-aebb-1dfee77da908" />
 
